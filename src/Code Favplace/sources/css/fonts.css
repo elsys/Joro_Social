@@ -1,0 +1,24 @@
+/*-----------------------------------------------------------
+	Fonts
+-----------------------------------------------------------*/
+@font-face {
+    font-family: "BGC";
+    src: url(../fonts/bgc.ttf);
+}
+
+@font-face {
+    font-family: "MyriadPro";
+    src: url(../fonts/MyriadPro-Regular.otf);
+}
+
+@font-face {
+    font-family: "MyriadPro-SemiboldCond";
+    src: url(../fonts/MyriadPro-SemiboldCond.otf);
+}
+
+@font-face {
+    font-family: "MyriadPro-BlackSemiCnIt";
+    src: url(../fonts/MyriadPro-BlackSemiCnIt.otf);
+}
+
+ 
